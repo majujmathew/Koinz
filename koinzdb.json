@@ -1,0 +1,180 @@
+ {
+            'icon': 'm-bug'
+            , 'id': '12345'
+            , 'type': 'Hindu Medieval'
+            , 'title': 'Vijayanagara ' /* HARIHARA1*/ 
+            , 'value': '1½'
+            , 'unit': 'Paise'
+            , 'period': '1234'
+            , 'amount': '4000'
+            , 'description': {
+                'obverse': 'Garuda Moving to right two hands are folded at the chest, in an attitude of devotion'
+                , 'reverse': 'Discus to the left and conch to the right. A Nagari letter "Ha" in the lower portion. "ह"'
+                , 'edge': 'Plain'
+                , 'inscriptions': {
+                    'inscription Type': 'inscription'
+                    , 'inscription Script': 'ह'
+                    , 'inscription Position': 'obverse'
+                    , 'inscription Language': 'Nagari'
+                    , 'inscription Transliteration': 'Ha'
+                }
+            }
+            , 'dimensions': {
+                'material': 'copper'
+                , 'shape': 'round'
+                , 'diameter': '13'
+                , 'weight': '3.30'
+                , 'thickness': '3'
+            }
+        }
+
+        , {
+            'icon': 'm-bug'
+            , 'id': '12346'
+            , 'value': '6'
+            , 'unit': 'Escudos'
+            , 'type': 'Portugese Indo'
+            , 'title': 'Miguel 1'
+            , 'period': '1234'
+            , 'amount': '4000'
+            , 'description': {
+                'obverse': ' Shield on lined circle at center of Maltese Cross'
+                , 'reverse': 'Tiny towers and shields above divided shield on lined circle'
+                , 'edge': 'Plain'
+                , 'inscriptions': {
+                    'inscription Type': 'ESTADO • DA • INDIA 6$00'
+                    , 'inscription Script': 'REPUBLICA • PORTUGUESA • 1959 •'
+                    , 'inscription Position': 'obverse'
+                    , 'inscription Language': 'Dutch'
+                    , 'inscription Transliteration': 'Ha'
+                }
+            }
+            , 'dimensions': {
+                'material': 'copper'
+                , 'shape': 'round'
+                , 'diameter': '13'
+                , 'weight': '3.30'
+                , 'thickness': '3'
+            }
+        }
+        , {
+            'icon': 'm-bug'
+            , 'id': '12347'
+            , 'type': 'Dutch Indo'
+            , 'value': '1½'
+            , 'title': 'Dutch '
+            , 'unit': 'Paise'
+            , 'name': 'VOC coin'
+            , 'period': '1791'
+            , 'amount': '4000'
+            , 'description': {
+                'obverse': 'Crowned Gelderland arms.In God is Our Hope'
+                , 'reverse': 'VOC monogram in middle, numeral at top, date below.'
+                , 'edge': 'Plain'
+                , 'inscriptions': {
+                    'inscription Type': 'IN DEO EST SPES NOSTRA'
+                    , 'inscription Script': 'VOC 1791'
+                    , 'inscription Position': 'obverse'
+                    , 'inscription Language': 'Dutch'
+                    , 'inscription Transliteration': 'VOC (Vereenigde Oost-Indische Compagnie) : United East India Company'
+                }
+            }
+            , 'dimensions': {
+                'material': 'copper'
+                , 'shape': 'round'
+                , 'diameter': '22'
+                , 'weight': '3.1'
+                , 'thickness': '1'
+            }
+            , 'certification': {
+                'grader': 'NGC'
+                , 'grade': 'XF 50'
+            }
+        }
+
+        , {
+            'icon': 'm-photo'
+            , 'id': '12348'
+            , 'type': 'British India'
+            , 'title': 'British '
+            , 'value': '1'
+            , 'unit': 'Rupee'
+            , 'name': 'Some Other Site'
+            , 'period': '1233'
+            , 'description': {
+                'obverse': 'Balemark of United east India'
+                , 'reverse': 'Balemark of United east India'
+            }
+        }, {
+            'icon': 'm-desktop'
+            , 'id': '12349'
+            , 'type': 'East India'
+            , 'title': 'Madras Presidency'
+            , 'value': '½'
+            , 'unit': 'Pice'
+            , 'name': 'Jerry\'s Blog'
+            , 'period': '1710'
+            , 'Weight': '1.140'
+            , 'Diameter': '14'
+            , 'Shape	Round': 'Round'
+            , 'description': {
+                'obverse': 'Balemark of United east India company, within a plain circle'
+                , 'reverse': 'Date within a plain circle or a circle of dots'
+            }
+        }, {
+            'icon': 'm-form'
+            , 'id': '12350'
+            , 'value': '½'
+            , 'unit': 'Pice'
+            , 'title': 'Madras Presidency'
+            , 'type': 'East India'
+            , 'name': 'East India'
+            , 'period': '1736'
+            , 'date': 'Today at Noon'
+            , 'Weight': '1.140'
+            , 'Diameter': '14'
+            , 'Shape	Round': 'Round'
+            , 'description': {
+                'obverse': 'Balemark of United east India company, within a plain circle'
+                , 'reverse': 'Date within a plain circle or a circle of dots'
+            }
+        }, {
+            'icon': 'm-phone'
+            , 'id': '12351'
+            , 'type': 'Hindu Medieval'
+            , 'title': 'Hindu Medieval aaa'
+            , 'value': '2'
+            , 'unit': 'Tanga'
+            , 'name': 'Some Mobile Site'
+            , 'period': '1234'
+            , 'description': {
+                'obverse': 'Someone'
+                , 'reverse': '#456183'
+            }
+        }, {
+            'icon': 'm-bell'
+            , 'id': '12352'
+            , 'type': 'Indo Dutch'
+            , 'title': 'Indo aaa'
+            , 'value': '1'
+            , 'unit': 'Pice'
+            , 'name': 'Fish\'s Wordpress Site'
+            , 'period': '3434'
+            , 'description': {
+                'name': 'Fish'
+                , 'reverse': '#1CB7BB'
+            }
+        }, {
+            'icon': 'm-group'
+            , 'id': '12353'
+            , 'type': 'Indo Dutch'
+            , 'title': ' dsfsfds'
+            , 'value': '1'
+            , 'name': 'Kitty Kat Kapture Form'
+            , 'period': '3434'
+            , 'description': {
+                'obverse': 'Kitty'
+                , 'reverse': '#1D9D9D'
+            }
+        }
+        ];
